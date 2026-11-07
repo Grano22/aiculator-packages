@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Sat, 07 Nov 2026 15:45:46 +0000
+Label: Aiculator
+Origin: Aiculator
+Suite: stable
+MD5Sum:
+ 2871694fb28ce8c1f3c62b37ee48e7a7             3330 main/binary-amd64/Packages
+ a55e4ff0015f5035c851609e1599129b             1236 main/binary-amd64/Packages.gz
+ 9656ab377e33933eef6ed0eca8aca080             3330 main/binary-arm64/Packages
+ 5aacded41851dfb5fe8da56ec3dad7a9             1232 main/binary-arm64/Packages.gz
+SHA1:
+ 16e8bbb5a0d764357d759b039afafe174e014927             3330 main/binary-amd64/Packages
+ 85408b3b955a1d81833a18b876dc9186ff55bee4             1236 main/binary-amd64/Packages.gz
+ a9860ce40a2cc284b416e0c0f7f360c7e5fcf80f             3330 main/binary-arm64/Packages
+ ee53b3c516c8143dc2a317a7b2e3d04409e7b3cf             1232 main/binary-arm64/Packages.gz
+SHA256:
+ f4b5ab2c355b0a903ce7fbf6339943275b79c45e26cb4b5ad1a1f4382e5eaf7d             3330 main/binary-amd64/Packages
+ b04e6422af79bbf4794dbae1752faeefc9665534625d2647c1d4265083bc0442             1236 main/binary-amd64/Packages.gz
+ 31997783e108a2af41e2c144e246b945993d75bd715d44ada47205d15af5b522             3330 main/binary-arm64/Packages
+ 0e9d84ec10cf7edb1645da679522efd1eba26c6a82c06dff58ce197caa433fdc             1232 main/binary-arm64/Packages.gz
+SHA512:
+ ea21ecb99cc8ca46c8989874c16d49a049910335d05bba2609a91f89370923cbec888135111f68738ddf598051b6345b97c178550c16cf18b9dd6b6974f3c009             3330 main/binary-amd64/Packages
+ b1d7f021d03260ab087cda88926e80806a2a9bb333be0a8d1525fc12bcc06d2fb83513aa638d4f3db7edf5070e74f1e89882a0038bf8ce80ebbb225ae43eebd2             1236 main/binary-amd64/Packages.gz
+ e5f82fd2b0ee2e69de71e01fe3c4b81f24c2e32765799b475951d0c94a99eb5d24ec4c0c4f71d5f47d35d8807d4b426988087c72c5572d7af1c62d3bb0fc7c45             3330 main/binary-arm64/Packages
+ 343cfb8c4b8afad8a09b6cdbe8962b012ea8d6ff60fda97916b91787c871698ca007713dd23bf4e8ea666a292fbd23f205dbf5808be5b0e514c4c11551bbf069             1232 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQT593t8jrf9+JiEsrw9n+DGxPtPbwUCau9HqgAKCRA9n+DGxPtP
+b2FDAPkBzt/oc2THED3gRjs/7wrXlj3clPPetqppH5ZmjBEROAEAgyt+AdUlJmjs
+znSgn+0213ih8OuBNla+07xS4TFNyQQ=
+=LUWf
+-----END PGP SIGNATURE-----

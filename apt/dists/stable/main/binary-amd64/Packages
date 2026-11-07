@@ -1,0 +1,85 @@
+Package: aiculator
+Architecture: amd64
+Version: 0.5.1
+Priority: optional
+Section: devel
+Maintainer: Grano22 <Grano22@users.noreply.github.com>
+Installed-Size: 28564
+Depends: git
+Filename: pool/aiculator_0.5.1_amd64.deb
+Size: 11136268
+MD5sum: 237832cd64f5397d12138b1609a91702
+SHA1: 94dce195a7cacee06875e3bf65db87e1fad59401
+SHA256: 09ba18cc8cf12381835c4399df59e26a585ffcbe7ca5bb6514522a1e78866574
+SHA512: 50fe5f177e8c63c6ed6330b50283ce02874ee86ef4860c1a1f958e6235556b62bd79877dd68c07f7b05b36accb56b92b502e7430d89aeab73c2016cbb713e8dc
+Homepage: https://github.com/Grano22/aiculator
+Description: AI task swarm that runs coding tasks across harnesses, with verification
+
+Package: aiculator
+Architecture: amd64
+Version: 0.6.0
+Priority: optional
+Section: devel
+Maintainer: Grano22 <Grano22@users.noreply.github.com>
+Installed-Size: 28918
+Depends: git
+Filename: pool/aiculator_0.6.0_amd64.deb
+Size: 11286396
+MD5sum: 51f692e90c7e33c8c5796fc9a6a063ee
+SHA1: 5c52db6727c6533496eb30cfee4d9eb63705f526
+SHA256: 12710b5b489d9e030a90510e5ddab5e2125528ed0b3ea25ea6a30a779d216acc
+SHA512: 528f9fe76feecf19e971c6b0cb3c671c5769c74aea47c3b8fb94e5d78c038a2344422c50c5ce20ac71869d11bed9fe806e7dbd71d6b6c725e48ec39732341ae9
+Homepage: https://github.com/Grano22/aiculator
+Description: AI task swarm that runs coding tasks across harnesses, with verification
+
+Package: aiculator
+Architecture: amd64
+Version: 0.7.0
+Priority: optional
+Section: devel
+Maintainer: Grano22 <Grano22@users.noreply.github.com>
+Installed-Size: 29229
+Depends: git
+Filename: pool/aiculator_0.7.0_amd64.deb
+Size: 11402584
+MD5sum: 0268e1c2e96adf0e87022e2ec34daefe
+SHA1: fcbd08d8288ccc57da2b9994fcd5dd7792fcbfbb
+SHA256: 76bebdc8124da3060ea87100e9fa52754f50e650a0484d1f6bf5c78c5646ac64
+SHA512: 463ce3e184b4e2a0b9b8cbb5d52c6999171bb6e364da1c2d54778f0683cc0069c730e573a347845fd4723ac9d5b8e5b77fa630138897e04c2e98e79d10e47a91
+Homepage: https://github.com/Grano22/aiculator
+Description: AI task swarm that runs coding tasks across harnesses, with verification
+
+Package: aiculator
+Architecture: amd64
+Version: 0.8.0
+Priority: optional
+Section: devel
+Maintainer: Grano22 <Grano22@users.noreply.github.com>
+Installed-Size: 29592
+Depends: git
+Filename: pool/aiculator_0.8.0_amd64.deb
+Size: 11516788
+MD5sum: ae09cd79e9e4d26cf898db14455ed355
+SHA1: 3cd03fc893d7f92b9ca936fba83999079458a1bc
+SHA256: a575633a1a5d8c79c5740ffeeaae5cc20ea94c3fb798e0094c33720bb7f430d0
+SHA512: f66b5eef271027344c8a233f75d3a0f5f4ca35450dbb3004495e62802c272d1f3d950aaaaf9dc74a15cd015b0c698ea3f2bd6731f75f1353a6370fbce4947e28
+Homepage: https://github.com/Grano22/aiculator
+Description: AI task swarm that runs coding tasks across harnesses, with verification
+
+Package: aiculator
+Architecture: amd64
+Version: 0.9.1
+Priority: optional
+Section: devel
+Maintainer: Grano22 <Grano22@users.noreply.github.com>
+Installed-Size: 30063
+Depends: git
+Filename: pool/aiculator_0.9.1_amd64.deb
+Size: 11688336
+MD5sum: 1a6a2fa28357c0c21fac7755e16cdf36
+SHA1: 6142cd008a46a23e3fe7810d9f606ca473b3b758
+SHA256: 9c3fa22bb9f41730089f0e90787b7d2908db4370434e9d49842768f231861fa5
+SHA512: 0c53e238aea6ea837bc7a0d71bbd972f549b7c9425ef7556967e3715ae6c5c53ec9a826e1dc7d319a2400a3f77b70a8d8bbd296106c96e66933cc97363324dcf
+Homepage: https://github.com/Grano22/aiculator
+Description: AI task swarm that runs coding tasks across harnesses, with verification
+
